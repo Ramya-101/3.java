@@ -18,6 +18,7 @@ n=n+2;
 count++;
 }
 }
+
 else
 {
 While (count<=a)
